@@ -8,8 +8,8 @@
     <xacro:arg name="load_shooter_collection" default="false"/>
     <xacro:arg name="load_collect" default="false"/>
     <xacro:arg name="load_collect_transmission" default="false"/>
-    <xacro:arg name="load_radar" default="false"/>
-    <xacro:arg name="load_action" default="false"/>
+    <xacro:arg name="load_radar" default="true"/>
+    <xacro:arg name="load_action" default="true"/>
     <xacro:arg name="use_sim" default="true"/>
     <xacro:arg name="use_simulation" default="false"/>
     <xacro:arg name="roller_type" default="simple"/>

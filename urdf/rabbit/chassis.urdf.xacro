@@ -3,7 +3,7 @@
     <xacro:include filename="$(find rc_description)/urdf/common/mecanum_wheel.urdf.xacro"/>
     
     <xacro:property name="wheel_track" value="0.37116"/>
-    <xacro:property name="wheel_base" value="0.4164"/>
+    <xacro:property name="wheel_base" value="0.4664"/>
     <xacro:property name="wheel_offset_z" value="-0.02"/>
 
     <xacro:macro name="chassis" params="roller_type">
